@@ -1,0 +1,43 @@
+## Setup Space
+
+cd C:\Users\james\neuralenv
+
+python 00_versions.py
+
+conda update scikit-learn
+
+conda install theano
+
+conda install -c conda-forge tensorflow
+
+pip install keras
+
+python 01_deep_versions.py
+
+pip install graphviz
+
+pip install pydot
+
+pip install scikeras
+
+# pip install seaborn
+
+## Run Scripts
+
+
+spare:
+
+def plot_history(input_fig):
+    hist = pd.DataFrame(input_fig.history)
+    hist['epoch'] = input_fig.epoch 
+    plt.figure()
+    plt.xlabel('Epoch')
+    plt.ylabel('Mean Abs Error')
+    plt.plot(hist['epoch'], hist['mae'], 
+             label='Train Error')
+    plt.plot(hist['epoch'], hist['val_mae'], 
+             label='Val Error')
+    plt.legend()
+    plt.ylim([0,5])
+    plt.savefig('plot_to_save', format='png')
+    

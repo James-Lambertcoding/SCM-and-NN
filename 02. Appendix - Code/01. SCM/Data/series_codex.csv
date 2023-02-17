@@ -1,0 +1,132 @@
+﻿Series,Count,Name
+EG.ELC.ACCS.ZS,21,Access to electricity (% of population)
+EG.ELC.ACCS.RU.ZS,21,"Access to electricity, rural (% of rural population)"
+EG.ELC.ACCS.UR.ZS,21,"Access to electricity, urban (% of urban population)"
+NV.AGR.TOTL.KD.ZG,21,"Agriculture, forestry, and fishing, value added (annual % growth)"
+NV.AGR.TOTL.CD,19,"Agriculture, forestry, and fishing, value added (current US$)"
+NV.AGR.TOTL.KD,21,"Agriculture, forestry, and fishing, value added (constant 2015 US$)"
+NV.AGR.TOTL.ZS,19,"Agriculture, forestry, and fishing, value added (% of GDP)"
+EN.ATM.CO2E.KD.GD,20,CO2 emissions (kg per 2015 US$ of GDP)
+EN.ATM.CO2E.PC,20,CO2 emissions (metric tons per capita)
+EN.ATM.CO2E.KT,20,CO2 emissions (kt)
+EN.ATM.CO2E.PP.GD,20,CO2 emissions (kg per PPP $ of GDP)
+EG.ELC.RNWX.KH,16,"Electricity production from renewable sources, excluding hydroelectric (kWh)"
+EG.ELC.FOSL.ZS,16,"Electricity production from oil, gas and coal sources (% of total)"
+SL.SRV.EMPL.ZS,20,Employment in services (% of total employment) (modeled ILO estimate)
+SL.AGR.EMPL.ZS,20,Employment in agriculture (% of total employment) (modeled ILO estimate)
+SL.EMP.MPYR.ZS,20,"Employers, total (% of total employment) (modeled ILO estimate)"
+SL.IND.EMPL.ZS,20,Employment in industry (% of total employment) (modeled ILO estimate)
+SL.IND.EMPL.MA.ZS,20,"Employment in industry, male (% of male employment) (modeled ILO estimate)"
+SL.IND.EMPL.FE.ZS,20,"Employment in industry, female (% of female employment) (modeled ILO estimate)"
+SL.AGR.EMPL.MA.ZS,20,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)"
+SL.AGR.EMPL.FE.ZS,20,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)"
+SL.SRV.EMPL.FE.ZS,20,"Employment in services, female (% of female employment) (modeled ILO estimate)"
+SL.SRV.EMPL.MA.ZS,20,"Employment in services, male (% of male employment) (modeled ILO estimate)"
+SL.EMP.TOTL.SP.FE.ZS,22,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)"
+SL.EMP.TOTL.SP.MA.ZS,22,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)"
+SL.EMP.TOTL.SP.ZS,22,"Employment to population ratio, 15+, total (%) (modeled ILO estimate)"
+SL.EMP.1524.SP.FE.ZS,22,"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)"
+SL.EMP.1524.SP.ZS,22,"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)"
+SL.EMP.1524.SP.MA.ZS,22,"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)"
+EG.EGY.PRIM.PP.KD,20,Energy intensity level of primary energy (MJ/$2017 PPP GDP)
+EG.IMP.CONS.ZS,14,"Energy imports, net (% of energy use)"
+NE.EXP.GNFS.CN,22,Exports of goods and services (current LCU)
+NE.EXP.GNFS.ZS,22,Exports of goods and services (% of GDP)
+NE.EXP.GNFS.CD,22,Exports of goods and services (current US$)
+NE.CON.TOTL.KD.ZG,22,Final consumption expenditure (annual % growth)
+NE.CON.TOTL.CD,22,Final consumption expenditure (current US$)
+NE.CON.TOTL.KN,22,Final consumption expenditure (constant LCU)
+NE.CON.TOTL.KD,22,Final consumption expenditure (constant 2015 US$)
+NE.CON.TOTL.CN,22,Final consumption expenditure (current LCU)
+NY.GDP.MKTP.KD,22,GDP (constant 2015 US$)
+NY.GDP.MKTP.CN,22,GDP (current LCU)
+NY.GDP.MKTP.KN,22,GDP (constant LCU)
+NY.GDP.MKTP.CD,22,GDP (current US$)
+NY.GDP.PCAP.KD,22,GDP per capita (constant 2015 US$)
+NY.GDP.PCAP.CN,22,GDP per capita (current LCU)
+NY.GDP.PCAP.KD.ZG,22,GDP per capita growth (annual %)
+NY.GDP.MKTP.KD.ZG,22,GDP growth (annual %)
+NY.GDP.PCAP.CD,22,GDP per capita (current US$)
+NY.GDP.PCAP.KN,22,GDP per capita (constant LCU)
+NY.GDP.PCAP.PP.KD,22,"GDP per capita, PPP (constant 2017 international $)"
+SL.GDP.PCAP.EM.KD,22,GDP per person employed (constant 2017 PPP $)
+EG.GDP.PUSE.KO.PP,14,GDP per unit of energy use (PPP $ per kg of oil equivalent)
+NY.GDP.PCAP.PP.CD,22,"GDP per capita, PPP (current international $)"
+NE.GDI.TOTL.ZS,19,Gross capital formation (% of GDP)
+NE.GDI.TOTL.CN,19,Gross capital formation (current LCU)
+NY.GDS.TOTL.CN,22,Gross domestic savings (current LCU)
+NE.GDI.FTOT.ZS,22,Gross fixed capital formation (% of GDP)
+NE.GDI.FTOT.CN,22,Gross fixed capital formation (current LCU)
+NE.GDI.TOTL.CD,19,Gross capital formation (current US$)
+NY.GDS.TOTL.ZS,22,Gross domestic savings (% of GDP)
+NY.GDS.TOTL.CD,22,Gross domestic savings (current US$)
+NE.GDI.FTOT.CD,22,Gross fixed capital formation (current US$)
+NE.DAB.TOTL.CD,19,Gross national expenditure (current US$)
+NE.DAB.TOTL.ZS,19,Gross national expenditure (% of GDP)
+NE.DAB.TOTL.CN,19,Gross national expenditure (current LCU)
+NV.IND.TOTL.KD.ZG,21,"Industry (including construction), value added (annual % growth)"
+NV.IND.TOTL.KN,21,"Industry (including construction), value added (constant LCU)"
+NV.IND.TOTL.ZS,19,"Industry (including construction), value added (% of GDP)"
+NV.IND.TOTL.CN,19,"Industry (including construction), value added (current LCU)"
+NV.IND.TOTL.KD,21,"Industry (including construction), value added (constant 2015 US$)"
+NY.GDP.DEFL.KD.ZG,22,"Inflation, GDP deflator (annual %)"
+NV.IND.TOTL.CD,19,"Industry (including construction), value added (current US$)"
+SL.TLF.ACTI.1524.FE.ZS,22,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)"
+SL.TLF.ACTI.1524.MA.ZS,22,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)"
+SL.TLF.ACTI.1524.ZS,22,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)"
+SL.TLF.CACT.FE.ZS,22,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
+SL.TLF.ACTI.FE.ZS,20,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)"
+SL.TLF.CACT.ZS,22,"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)"
+SL.TLF.ACTI.ZS,20,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)"
+SL.TLF.CACT.MA.ZS,22,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
+SL.TLF.ACTI.MA.ZS,20,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)"
+SL.TLF.TOTL.FE.ZS,22,"Labor force, female (% of total labor force)"
+SL.TLF.TOTL.IN,22,"Labor force, total"
+NV.SRV.TOTL.KD.ZG,21,"Services, value added (annual % growth)"
+NV.SRV.TOTL.KN,21,"Services, value added (constant LCU)"
+NV.SRV.TOTL.CD,19,"Services, value added (current US$)"
+NV.SRV.TOTL.ZS,19,"Services, value added (% of GDP)"
+NV.SRV.TOTL.KD,21,"Services, value added (constant 2015 US$)"
+NV.SRV.TOTL.CN,19,"Services, value added (current LCU)"
+SL.EMP.SELF.FE.ZS,20,"Self-employed, female (% of female employment) (modeled ILO estimate)"
+SL.EMP.SELF.ZS,20,"Self-employed, total (% of total employment) (modeled ILO estimate)"
+SL.EMP.SELF.MA.ZS,20,"Self-employed, male (% of male employment) (modeled ILO estimate)"
+NE.TRD.GNFS.ZS,22,Trade (% of GDP)
+SL.UEM.TOTL.MA.ZS,22,"Unemployment, male (% of male labor force) (modeled ILO estimate)"
+SL.UEM.TOTL.FE.ZS,22,"Unemployment, female (% of female labor force) (modeled ILO estimate)"
+SL.UEM.TOTL.ZS,22,"Unemployment, total (% of total labor force) (modeled ILO estimate)"
+SL.UEM.1524.FE.ZS,22,"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)"
+SL.UEM.1524.MA.ZS,22,"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)"
+SL.UEM.1524.ZS,22,"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)"
+SL.EMP.WORK.ZS,20,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)"
+SL.EMP.WORK.FE.ZS,20,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)"
+SL.EMP.WORK.MA.ZS,20,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)"
+TX.VAL.MRCH.XD.WD,20,Export value index (2000 = 100)
+TX.QTY.MRCH.XD.WD,20,Export volume index (2000 = 100)
+SL.UEM.TOTL.NE.ZS,1,"Unemployment, total (% of total labor force) (national estimate)"
+NY.ADJ.NNTY.CD,13,Adjusted net national income (current US$)
+NY.ADJ.NNTY.PC.CD,13,Adjusted net national income per capita (current US$)
+AG.LND.ARBL.HA.PC,15,Arable land (hectares per person)
+BX.KLT.DINV.WD.GD.ZS,15,"Foreign direct investment, net inflows (% of GDP)"
+BM.KLT.DINV.WD.GD.ZS,15,"Foreign direct investment, net outflows (% of GDP)"
+BX.KLT.DINV.CD.WD,15,"Foreign direct investment, net inflows (BoP, current US$)"
+BM.KLT.DINV.CD.WD,15,"Foreign direct investment, net outflows (BoP, current US$)"
+NV.IND.MANF.ZS,9,"Manufacturing, value added (% of GDP)"
+NV.IND.MANF.CN,9,"Manufacturing, value added (current LCU)"
+NV.IND.MANF.CD,9,"Manufacturing, value added (current US$)"
+IC.TAX.LABR.CP.ZS,7,Labor tax and contributions (% of commercial profits)
+IC.EXP.CSBC.CD,6,"Cost to export, border compliance (US$)"
+IC.IMP.CSBC.CD,6,"Cost to import, border compliance (US$)"
+NY.ADJ.NNTY.KD,1,Adjusted net national income (constant 2015 US$)
+NY.ADJ.NNTY.PC.KD,1,Adjusted net national income per capita (constant 2015 US$)
+NE.EXP.GNFS.KD,1,Exports of goods and services (constant 2015 US$)
+NE.GDI.TOTL.KD,1,Gross capital formation (constant 2015 US$)
+NE.GDI.FTOT.KD,1,Gross fixed capital formation (constant 2015 US$)
+NE.DAB.TOTL.KD,1,Gross national expenditure (constant 2015 US$)
+NV.IND.EMPL.KD,1,"Industry (including construction), value added per worker (constant 2015 US$)"
+NV.IND.MANF.KD,1,"Manufacturing, value added (constant 2015 US$)"
+NV.SRV.EMPL.KD,1,"Services, value added per worker (constant 2015 US$)"
+NV.MNF.CHEM.ZS.UN,2,Chemicals (% of value added in manufacturing)
+NV.MNF.FBTO.ZS.UN,2,"Food, beverages and tobacco (% of value added in manufacturing)"
+NV.MNF.MTRN.ZS.UN,2,Machinery and transport equipment (% of value added in manufacturing)
+auto,23,Automotive

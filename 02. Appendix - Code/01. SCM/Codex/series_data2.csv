@@ -1,0 +1,145 @@
+"","Series.Code","Series.Name","data_count"
+"1","NY.ADJ.AEDU.GN.ZS","Adjusted savings: education expenditure (% of GNI)",49
+"2","NY.ADJ.DMIN.CD","Adjusted savings: mineral depletion (current US$)",49
+"3","SP.ADO.TFRT","Adolescent fertility rate (births per 1,000 women ages 15-19)",49
+"4","SP.POP.DPND","Age dependency ratio (% of working-age population)",50
+"5","SP.POP.DPND.OL","Age dependency ratio, old (% of working-age population)",50
+"6","SP.POP.DPND.YG","Age dependency ratio, young (% of working-age population)",50
+"7","AG.LND.AGRI.ZS","Agricultural land (% of land area)",49
+"8","AG.LND.AGRI.K2","Agricultural land (sq. km)",49
+"9","ER.FSH.AQUA.MT","Aquaculture production (metric tons)",49
+"10","ER.FSH.CAPT.MT","Capture fisheries production (metric tons)",49
+"11","AG.LND.TOTL.K2","Land area (sq. km)",49
+"12","SE.SEC.AGES","Lower secondary school starting age (years)",48
+"13","SM.POP.NETM","Net migration",50
+"14","SP.POP.0004.FE.5Y","Population ages 00-04, female (% of female population)",50
+"15","SP.POP.0004.MA.5Y","Population ages 00-04, male (% of male population)",50
+"16","SP.POP.0014.TO.ZS","Population ages 0-14 (% of total population)",50
+"17","SP.POP.0014.FE.IN","Population ages 0-14, female",50
+"18","SP.POP.0014.FE.ZS","Population ages 0-14, female (% of female population)",50
+"19","SP.POP.0014.MA.IN","Population ages 0-14, male",50
+"20","SP.POP.0014.MA.ZS","Population ages 0-14, male (% of male population)",50
+"21","SP.POP.0014.TO","Population ages 0-14, total",50
+"22","SP.POP.0509.FE.5Y","Population ages 05-09, female (% of female population)",50
+"23","SP.POP.0509.MA.5Y","Population ages 05-09, male (% of male population)",50
+"24","SP.POP.1014.FE.5Y","Population ages 10-14, female (% of female population)",50
+"25","SP.POP.1014.MA.5Y","Population ages 10-14, male (% of male population)",50
+"26","SP.POP.1519.FE.5Y","Population ages 15-19, female (% of female population)",50
+"27","SP.POP.1519.MA.5Y","Population ages 15-19, male (% of male population)",50
+"28","SP.POP.1564.TO.ZS","Population ages 15-64 (% of total population)",50
+"29","SP.POP.1564.FE.IN","Population ages 15-64, female",50
+"30","SP.POP.1564.FE.ZS","Population ages 15-64, female (% of female population)",50
+"31","SP.POP.1564.MA.IN","Population ages 15-64, male",50
+"32","SP.POP.1564.MA.ZS","Population ages 15-64, male (% of male population)",50
+"33","SP.POP.1564.TO","Population ages 15-64, total",50
+"34","SP.POP.2024.FE.5Y","Population ages 20-24, female (% of female population)",50
+"35","SP.POP.2024.MA.5Y","Population ages 20-24, male (% of male population)",50
+"36","SP.POP.2529.FE.5Y","Population ages 25-29, female (% of female population)",50
+"37","SP.POP.2529.MA.5Y","Population ages 25-29, male (% of male population)",50
+"38","SP.POP.3034.FE.5Y","Population ages 30-34, female (% of female population)",50
+"39","SP.POP.3034.MA.5Y","Population ages 30-34, male (% of male population)",50
+"40","SP.POP.3539.FE.5Y","Population ages 35-39, female (% of female population)",50
+"41","SP.POP.3539.MA.5Y","Population ages 35-39, male (% of male population)",50
+"42","SP.POP.4044.FE.5Y","Population ages 40-44, female (% of female population)",50
+"43","SP.POP.4044.MA.5Y","Population ages 40-44, male (% of male population)",50
+"44","SP.POP.4549.FE.5Y","Population ages 45-49, female (% of female population)",50
+"45","SP.POP.4549.MA.5Y","Population ages 45-49, male (% of male population)",50
+"46","SP.POP.5054.FE.5Y","Population ages 50-54, female (% of female population)",50
+"47","SP.POP.5054.MA.5Y","Population ages 50-54, male (% of male population)",50
+"48","SP.POP.5559.FE.5Y","Population ages 55-59, female (% of female population)",50
+"49","SP.POP.5559.MA.5Y","Population ages 55-59, male (% of male population)",50
+"50","SP.POP.6064.FE.5Y","Population ages 60-64, female (% of female population)",50
+"51","SP.POP.6064.MA.5Y","Population ages 60-64, male (% of male population)",50
+"52","SP.POP.65UP.TO.ZS","Population ages 65 and above (% of total population)",50
+"53","SP.POP.65UP.FE.IN","Population ages 65 and above, female",50
+"54","SP.POP.65UP.FE.ZS","Population ages 65 and above, female (% of female population)",50
+"55","SP.POP.65UP.MA.IN","Population ages 65 and above, male",50
+"56","SP.POP.65UP.MA.ZS","Population ages 65 and above, male (% of male population)",50
+"57","SP.POP.65UP.TO","Population ages 65 and above, total",50
+"58","SP.POP.6569.FE.5Y","Population ages 65-69, female (% of female population)",50
+"59","SP.POP.6569.MA.5Y","Population ages 65-69, male (% of male population)",50
+"60","SP.POP.7074.FE.5Y","Population ages 70-74, female (% of female population)",50
+"61","SP.POP.7074.MA.5Y","Population ages 70-74, male (% of male population)",50
+"62","SP.POP.7579.FE.5Y","Population ages 75-79, female (% of female population)",50
+"63","SP.POP.7579.MA.5Y","Population ages 75-79, male (% of male population)",50
+"64","SP.POP.80UP.FE.5Y","Population ages 80 and above, female (% of female population)",50
+"65","SP.POP.80UP.MA.5Y","Population ages 80 and above, male (% of male population)",50
+"66","EN.POP.DNST","Population density (people per sq. km of land area)",49
+"67","SP.POP.GROW","Population growth (annual %)",50
+"68","SP.POP.TOTL.FE.IN","Population, female",50
+"69","SP.POP.TOTL.FE.ZS","Population, female (% of total population)",50
+"70","SP.POP.TOTL.MA.IN","Population, male",50
+"71","SP.POP.TOTL.MA.ZS","Population, male (% of total population)",50
+"72","SP.POP.TOTL","Population, total",50
+"73","SE.PRM.DURS","Primary education, duration (years)",48
+"74","SE.PRM.AGES","Primary school starting age (years)",48
+"75","SP.RUR.TOTL","Rural population",50
+"76","SP.RUR.TOTL.ZS","Rural population (% of total population)",50
+"77","SP.RUR.TOTL.ZG","Rural population growth (annual %)",50
+"78","SE.SEC.DURS","Secondary education, duration (years)",48
+"79","SP.POP.BRTH.MF","Sex ratio at birth (male births per female births)",49
+"80","AG.SRF.TOTL.K2","Surface area (sq. km)",49
+"81","SP.DYN.TO65.FE.ZS","Survival to age 65, female (% of cohort)",49
+"82","SP.DYN.TO65.MA.ZS","Survival to age 65, male (% of cohort)",49
+"83","ER.FSH.PROD.MT","Total fisheries production (metric tons)",49
+"84","SP.URB.TOTL","Urban population",50
+"85","SP.URB.TOTL.IN.ZS","Urban population (% of total population)",50
+"86","SP.URB.GROW","Urban population growth (annual %)",50
+"87","SG.LAW.INDX","Women Business and the Law Index Score (scale 1-100)",50
+"88","SP.DYN.IMRT.IN","Mortality rate, infant (per 1,000 live births)",37
+"89","SP.DYN.IMRT.FE.IN","Mortality rate, infant, female (per 1,000 live births)",37
+"90","SP.DYN.IMRT.MA.IN","Mortality rate, infant, male (per 1,000 live births)",37
+"91","SH.DYN.MORT","Mortality rate, under-5 (per 1,000 live births)",37
+"92","SH.DYN.MORT.FE","Mortality rate, under-5, female (per 1,000 live births)",37
+"93","SH.DYN.MORT.MA","Mortality rate, under-5, male (per 1,000 live births)",37
+"94","SH.DTH.IMRT","Number of infant deaths",36
+"95","SH.DYN.NMRT","Mortality rate, neonatal (per 1,000 live births)",32
+"96","SH.DTH.MORT","Number of under-five deaths",32
+"97","NY.ADJ.DCO2.CD","Adjusted savings: carbon dioxide damage (current US$)",31
+"98","NY.ADJ.DNGY.CD","Adjusted savings: energy depletion (current US$)",31
+"99","EN.ATM.METH.AG.KT.CE","Agricultural methane emissions (thousand metric tons of CO2 equivalent)",30
+"100","EN.ATM.NOXE.AG.KT.CE","Agricultural nitrous oxide emissions (thousand metric tons of CO2 equivalent)",30
+"101","EN.ATM.CO2E.KT","CO2 emissions (kt)",30
+"102","EN.ATM.CO2E.PC","CO2 emissions (metric tons per capita)",30
+"103","SL.TLF.ACTI.1524.FE.ZS","Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",32
+"104","SL.TLF.ACTI.1524.MA.ZS","Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",32
+"105","SL.TLF.ACTI.1524.ZS","Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",32
+"106","SL.TLF.CACT.FE.ZS","Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",32
+"107","SL.TLF.ACTI.FE.ZS","Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",30
+"108","SL.TLF.CACT.MA.ZS","Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",32
+"109","SL.TLF.ACTI.MA.ZS","Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",30
+"110","SL.TLF.CACT.ZS","Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",32
+"111","SL.TLF.ACTI.ZS","Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",30
+"112","SL.TLF.TOTL.FE.ZS","Labor force, female (% of total labor force)",32
+"113","SL.TLF.TOTL.IN","Labor force, total",32
+"114","TX.MNF.TECH.ZS.UN","Medium and high-tech exports (% manufactured exports)",30
+"115","NV.MNF.TECH.ZS.UN","Medium and high-tech manufacturing value added (% manufacturing value added)",30
+"116","EN.ATM.METH.KT.CE","Methane emissions (kt of CO2 equivalent)",30
+"117","EN.ATM.METH.EG.KT.CE","Methane emissions in energy sector (thousand metric tons of CO2 equivalent)",30
+"118","EN.ATM.NOXE.KT.CE","Nitrous oxide emissions (thousand metric tons of CO2 equivalent)",30
+"119","EN.ATM.NOXE.EG.KT.CE","Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent)",30
+"120","SH.DTH.1014","Number of deaths ages 10-14 years",31
+"121","SH.DTH.1519","Number of deaths ages 15-19 years",31
+"122","SH.DTH.2024","Number of deaths ages 20-24 years",31
+"123","SH.DTH.0509","Number of deaths ages 5-9 years",31
+"124","SH.DTH.NMRT","Number of neonatal deaths",31
+"125","SH.DYN.1014","Probability of dying among adolescents ages 10-14 years (per 1,000)",31
+"126","SH.DYN.1519","Probability of dying among adolescents ages 15-19 years (per 1,000)",31
+"127","SH.DYN.0509","Probability of dying among children ages 5-9 years (per 1,000)",31
+"128","SH.DYN.2024","Probability of dying among youth ages 20-24 years (per 1,000)",31
+"129","SL.TLF.CACT.FM.ZS","Ratio of female to male labor force participation rate (%) (modeled ILO estimate)",32
+"130","EG.FEC.RNEW.ZS","Renewable energy consumption (% of total final energy consumption)",30
+"131","EN.ATM.GHGT.KT.CE","Total greenhouse gas emissions (kt of CO2 equivalent)",30
+"132","SL.EMP.TOTL.SP.FE.ZS","Employment to population ratio, 15+, female (%) (modeled ILO estimate)",31
+"133","SL.EMP.TOTL.SP.MA.ZS","Employment to population ratio, 15+, male (%) (modeled ILO estimate)",31
+"134","SL.EMP.TOTL.SP.ZS","Employment to population ratio, 15+, total (%) (modeled ILO estimate)",31
+"135","SL.EMP.1524.SP.FE.ZS","Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",31
+"136","SL.EMP.1524.SP.MA.ZS","Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",31
+"137","SL.EMP.1524.SP.ZS","Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",31
+"138","SL.UEM.TOTL.FE.ZS","Unemployment, female (% of female labor force) (modeled ILO estimate)",31
+"139","SL.UEM.TOTL.MA.ZS","Unemployment, male (% of male labor force) (modeled ILO estimate)",31
+"140","SL.UEM.TOTL.ZS","Unemployment, total (% of total labor force) (modeled ILO estimate)",31
+"141","SL.UEM.1524.FE.ZS","Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",31
+"142","SL.UEM.1524.MA.ZS","Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",31
+"143","SL.UEM.1524.ZS","Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",31
+"144","SH.DYN.AIDS.FE.ZS","Women's share of population ages 15+ living with HIV (%)",30
